@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
+<a href="#"><img width="100%" height="auto" src="https://www.linkpicture.com/q/github.gif" height="175px"/></a>
 <h3 align="center">An aspiring software developer keen to learn new technologies and frameworks</h3>
 
 - 🔭 I’m currently working on **Password Manager**
