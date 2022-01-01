@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
-<a href="#"><img width="100%" height="auto" src="https://www.linkpicture.com/q/d55cbf619365057938b269750fcb9326.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" height="175px"/></a>
 <h3 align="center">An aspiring software developer keen to learn new technologies and frameworks</h3>
 
 - 🔭 I’m currently working on **Password Manager**
